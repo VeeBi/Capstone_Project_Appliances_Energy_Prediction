@@ -1,2 +1,2 @@
-# Phase-1_Veenalakshmi-
+Appliances Energy Prediction
 CapStone Project
